@@ -1,42 +1,42 @@
 # list-app
 
-A simple Node.js application for managing a list of items, created as part of the [Progate Node.js course](https://prog-8.com/paths/node).
+[Progate Node.jsコース](https://prog-8.com/paths/node)の一環として作成された、アイテムのリストを管理するシンプルなNode.jsアプリケーションです。
 
-## Features
+## 機能
 
-- Add items to the list
-- View all items in the list
-- Delete items from the list
-- Edit items in the list
+- リストにアイテムを追加
+- リスト内の全アイテムを表示
+- リストからアイテムを削除
+- リスト内のアイテムを編集
 
-## Prerequisites
+## 前提条件
 
-To run this application, ensure you have the following installed:
+このアプリケーションを実行するには、以下がインストールされている必要があります：
 
-- [Node.js](https://nodejs.org/) (version 12 or higher)
-- [npm](https://www.npmjs.com/), which comes with Node.js
+- [Node.js](https://nodejs.org/)（バージョン12以上）
+- [npm](https://www.npmjs.com/)（Node.jsに同梱されています）
 
-## Installation
+## インストール
 
-1. Clone the repository:
+1. リポジトリをクローンします：
 
 ```bash
 git clone https://github.com/kkato/list-app.git
 cd list-app
 ```
 
-2. Install the required dependencies:
+2. 必要な依存関係をインストールします：
 
 ```bash
 npm install
 ```
 
-## Usage
+## 使い方
 
-1. Start the application:
+1. アプリケーションを起動します：
 
 ```bash
 node app.js
 ```
 
-2. Open your browser and navigate to http://localhost:3000.
+2. ブラウザで http://localhost:3000 にアクセスします。
