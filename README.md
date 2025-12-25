@@ -1,6 +1,6 @@
 # list-app
 
-[Progate Node.jsコース](https://prog-8.com/paths/node)の一環として作成された、アイテムのリストを管理するシンプルなNode.jsアプリケーションです。
+[Progate Node.jsコース](https://prog-8.com/paths/node)の一環として、アイテムのリストを管理するシンプルなNode.jsアプリケーションを作成しました。
 
 ## 機能
 
